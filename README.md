@@ -4,7 +4,7 @@ The code relies on Schmidt's implementation of unconstrained opitmization, inclu
 
 To use this code, first run initpath.m.  The entry function is smica.m.
 
-You might need to recompile the optimizer, in which case please consult [2].  
+You might need to recompile the optimizer, in which case please consult [2].  (You likely need only to run mexAll.m.)
 
 [1] A. Hyvarinen. Estimation of non-normalized statistical models using score matching. Journal of Machine Learning Research, 6:695--709, 2005. 
 
